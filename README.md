@@ -4,7 +4,7 @@ Alert provider for kthcloud/console
 ## Configuration
 The console fetches the alert.json file upon load, and displays any alerts there based on the configuration below:
 
-```json
+```yaml
 {
     "alerts": [
         {
