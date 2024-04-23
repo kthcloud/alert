@@ -1,0 +1,14 @@
+{
+    "alerts": [
+        {
+            "title": "Beta version - VM v2 featues are still being implemented. Please report bugs",
+            "severity": "warning",
+            "domains": [
+                "beta.app.cloud.cbh.kth.se"
+            ],
+            "pages": [
+                "/deploy"
+            ]
+        }
+    ]
+}
