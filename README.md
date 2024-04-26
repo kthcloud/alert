@@ -1,5 +1,5 @@
 # 📣 kthcloud/console-alert
-Alert provider for kthcloud/console
+Alert provider for kthcloud services
 
 ## Configuration
 The console fetches the alert.json file upon load, and displays any alerts there based on the configuration below:
