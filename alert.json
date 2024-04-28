@@ -15,7 +15,7 @@
             "severity": "info"
         },
         {
-            "title": "Beta channel, features may be incomplete or non functioning - Please report bugs",
+            "title": "Beta channel, features may be incomplete or non functioning. Please report bugs",
             "domains": [
                 "beta.app.cloud.cbh.kth.se"
             ],
