@@ -28,9 +28,9 @@ The console fetches the alert.json file upon load, and displays any alerts there
             // Choose from: success, info, warning, error
             "severity": "error", // optional, default info. 
             
-            // Variant of alert
-            // Choose from: outlined, filled
-            "variant": "filled", // optional, default outlined
+            // Variant of alert bar
+            // Choose from: filled, outlined, (when not set it has the background color of outlined but no borders)
+            "variant": "outlined", // optional, default is the "not set" above
 
             // Active
             "active": true // optional, default true
