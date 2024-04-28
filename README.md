@@ -29,8 +29,8 @@ The console fetches the alert.json file upon load, and displays any alerts there
             "severity": "error", // optional, default info. 
             
             // Variant of alert
-            // Choose from: filled, outlined
-            "variant": "filled", // optional, default filled
+            // Choose from: outlined, filled
+            "variant": "filled", // optional, default outlined
 
             // Active
             "active": true // optional, default true
