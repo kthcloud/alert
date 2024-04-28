@@ -1,9 +1,11 @@
 {
     "alerts": [
         {
-            "title": "Beta version - VM v2 featues are still being implemented. Please report bugs",
-            "severity": "warning",
+            "title": "Introducing VM v2, our freshly baked VM offerings.",
+            "link": "https://docs.cloud.cbh.kth.se/News/2024-04-14/"
+            "severity": "info",
             "domains": [
+                "cloud.cbh.kth.se",
                 "beta.app.cloud.cbh.kth.se"
             ],
             "pages": [
