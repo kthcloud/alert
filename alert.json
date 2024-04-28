@@ -13,6 +13,16 @@
             "showFrom": "2024-04-28T00:00:00Z",
             "showUntil": "2024-05-15:00:00:00Z",
             "severity": "info"
+        },
+        {
+            "title": "Beta channel, features may be incomplete or non functioning - Please report bugs",
+            "domains": [
+                "beta.app.cloud.cbh.kth.se"
+            ],
+            "pages": [
+                "/deploy"
+            ],
+            "severity": "warning"
         }
     ]
 }
