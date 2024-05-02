@@ -19,9 +19,6 @@
             "domains": [
                 "beta.app.cloud.cbh.kth.se"
             ],
-            "pages": [
-                "/deploy"
-            ],
             "severity": "warning"
         }
     ]
