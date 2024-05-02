@@ -15,7 +15,7 @@ The console fetches the alert.json file upon load, and displays any alerts there
 
             // Show only on certain pages or domains
             "domains": ["cloud.cbh.kth.se", "beta.app.cloud.cbh.kth.se", "localhost:3000"], // optional, default everywhere
-            "pages": ["/", "/deploy", "/edit"], // optional, default everywhere
+            "pages": ["/", "/deploy", "/edit"], // optional, default "/deploy"
 
             // Will add a button to the alert
             "link": "https://www.kth.se", // optional, default none
