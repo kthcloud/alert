@@ -22,7 +22,7 @@
             "severity": "warning"
         },
         {
-            "title": "Container Registry is undergoing Maintenance and could be down until 2024-05-17 17:00"
+            "title": "Container Registry is undergoing Maintenance and could be down until 2024-05-17 17:00",
             "domains": [
                 "cloud.cbh.kth.se"
             ],
