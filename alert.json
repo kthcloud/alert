@@ -30,6 +30,7 @@
                 "/deploy"
             ],
             "showFrom": "2024-05-16T00:00:00Z",
+            "showUntil": "2024-05-17:17:00:00Z",
             "severity": "warning"
         }
     ]
