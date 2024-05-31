@@ -1,20 +1,6 @@
 {
     "alerts": [
         {
-            "title": "Introducing VM v2, our freshly baked VM instances",
-            "domains": [
-                "cloud.cbh.kth.se",
-                "beta.app.cloud.cbh.kth.se"
-            ],
-            "pages": [
-                "/deploy"
-            ],
-            "link": "https://docs.cloud.cbh.kth.se/News/2024-04-14/",
-            "showFrom": "2024-04-28T00:00:00Z",
-            "showUntil": "2024-05-15T00:00:00Z",
-            "severity": "info"
-        },
-        {
             "title": "Beta channel, features may be incomplete or non functioning. Please report bugs",
             "domains": [
                 "beta.app.cloud.cbh.kth.se"
@@ -22,15 +8,17 @@
             "severity": "warning"
         },
         {
-            "title": "The container registry is undergoing maintenance and could be down until 2024-05-17 17:00",
+            "title": "We are performing an API migration which may cause downtime. Reach out on Discord for further information",
             "domains": [
-                "cloud.cbh.kth.se"
+                "cloud.cbh.kth.se",
+                "beta.app.cloud.cbh.kth.se"
             ],
             "pages": [
+                "/",
                 "/deploy"
             ],
-            "showFrom": "2024-05-16T00:00:00Z",
-            "showUntil": "2024-05-17T17:00:00Z",
+            "showFrom": "2024-05-31T00:00:00Z",
+            "showUntil": "2024-06-01T10:00:00Z",
             "severity": "warning"
         }
     ]
