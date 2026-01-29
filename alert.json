@@ -34,6 +34,20 @@
             "showUntil": "2024-06-14T10:00:00Z",
             "severity": "success",
             "link": "https://mastodon.social/@kthcloud/112558116074575444"
-        }
+        },
+        {
+            "title": "We are performing system upgrades which may cause downtime. Reach out on Discord for further information",
+            "domains": [
+                "cloud.cbh.kth.se",
+                "beta.app.cloud.cbh.kth.se"
+            ],
+            "pages": [
+                "/",
+                "/deploy"
+            ],
+            "showFrom": "2026-01-28T00:00:00Z",
+            "showUntil": "2024-01-30T00:00:00Z",
+            "severity": "warning"
+        },
     ]
 }
