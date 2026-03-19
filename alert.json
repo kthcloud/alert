@@ -62,6 +62,20 @@
             "showFrom": "2026-02-10T00:00:00Z",
             "showUntil": "2026-02-18T00:00:00Z",
             "severity": "warning"
+        },
+        {
+            "title": "Due to a scheduled power outage, services will be unavailable from Monday, March 23 to Tuesday, March 24. We apologize for any inconvenience and appreciate your understanding. For updates or questions, please reach out on Discord",
+            "domains": [
+                "cloud.cbh.kth.se",
+                "beta.app.cloud.cbh.kth.se"
+            ],
+            "pages": [
+                "/",
+                "/deploy"
+            ],
+            "showFrom": "2026-03-19T00:00:00Z",
+            "showUntil": "2026-03-25T00:00:00Z",
+            "severity": "warning"
         }
     ]
 }
