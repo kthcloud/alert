@@ -90,6 +90,20 @@
             "showFrom": "2026-05-04T00:00:00Z",
             "showUntil": "2026-05-06T00:00:00Z",
             "severity": "warning"
+        },
+        {
+            "title": "We will be moving the servers from Tuesday, 25 August to Tuesday, 1 Sep. During this time, the services may be unavailable. We apologize for any inconvenience and appreciate your understanding. Reach out on Discord for further information",
+            "domains": [
+                "cloud.cbh.kth.se",
+                "beta.app.cloud.cbh.kth.se"
+            ],
+            "pages": [
+                "/",
+                "/deploy"
+            ],
+            "showFrom": "2026-08-24T00:00:00Z",
+            "showUntil": "2026-09-02T00:00:00Z",
+            "severity": "warning"
         }
     ]
 }
